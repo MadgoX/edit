@@ -427,7 +427,8 @@
 * [Perspective Monde](https://perspective.usherbrooke.ca/) - Datasets / Statistics
 * [Prix Carburants](https://www.prix-carburants.gouv.fr/) - Gas Prices
 * [Donnons](https://donnons.org/) - Item Donation
-* [Rochester LSF](https://projects.lib.rochester.edu/lsf-asl-app/dictionary/) - French Sign Langauge Dictionary
+* [Rochester LSF](https://projects.lib.rochester.edu/lsf-asl-app/dictionary/) - French Sign Language Dictionary
+* [Juribot](https://juribot.fr/) - AI Chatbot for French Legal Questions
 
 ## ▷ Downloading / Téléchargement
 
